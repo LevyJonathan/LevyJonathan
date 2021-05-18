@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LevyJonathan
-- 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning HTML, CSS, PHP.
+- 👀 I’m interested in fullstack development.
+- 🌱 I’m currently learning HTML, CSS, JS and PHP.
 - 💞️ I’m looking to collaborate on small projects, only to learn.
-- 📫 How to reach me 
+
 
 <!---
 LevyJonathan/LevyJonathan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
