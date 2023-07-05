@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LevyJonathan
 - 👀 I’m interested in fullstack development.
-- 🌱 I’m currently learning HTML, CSS, JS and PHP.
+- 🌱 I’m currently learning HTML, CSS, JS , PHP and RUBY.
 - 💞️ I’m looking to collaborate on small projects, only to learn.
 
 
